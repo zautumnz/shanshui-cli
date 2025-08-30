@@ -4,9 +4,7 @@
   "version": "0.1.11",
   "type": "module",
   "author": {
-    "name": "Zac Anger",
-    "email": "zac@zacanger.com",
-    "url": "https://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "bin": {
@@ -20,12 +18,12 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "homepage": "https://github.com/zacanger/shanshui-cli#readme",
+  "homepage": "https://github.com/zautumnz/shanshui-cli#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/shanshui-cli.git"
+    "url": "https://github.com/zautumnz/shanshui-cli.git"
   },
-  "bugs": "https://github.com/zacanger/shanshui-cli/issues",
+  "bugs": "https://github.com/zautumnz/shanshui-cli/issues",
   "keywords": [
     "shan-shui",
     "painting",
