@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "bin": {
-    "shanshui": "./index.js"
+    "shanshui": "index.js"
   },
   "scripts": {
     "test": "npm run test:lint",
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/zautumnz/shanshui-cli#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zautumnz/shanshui-cli.git"
+    "url": "git+https://github.com/zautumnz/shanshui-cli.git"
   },
   "bugs": "https://github.com/zautumnz/shanshui-cli/issues",
   "keywords": [
