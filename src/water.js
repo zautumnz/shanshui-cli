@@ -1,8 +1,10 @@
 import { stroke } from './stroke.js'
 import { rand } from './rand.js'
 
-export function water (xoff, yoff, seed, Noise, args = {}) {
-  const { hei = 2, len = 800, clu = 10 } = args
+export function water (xoff, yoff, Noise) {
+  const hei = 2
+  const len = 800
+  const clu = 10
   let canv = ''
 
   const ptlist = []

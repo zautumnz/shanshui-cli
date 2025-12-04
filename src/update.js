@@ -56,7 +56,7 @@ export class Update {
             tag: plan[i].tag,
             x: plan[i].x,
             y: plan[i].y - 10000,
-            canv: water(plan[i].x, plan[i].y, i * 2, this.Noise)
+            canv: water(plan[i].x, plan[i].y, this.Noise)
           })
         } else if (plan[i].tag === 'flatmount') {
           this.add({
